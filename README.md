@@ -1,4 +1,3 @@
-# bstdsaproblems
 # 🌲 Binary Search Tree Problems in Java
 
 This repository contains Java implementations for common **Binary Search Tree (BST)** problems, often asked in technical interviews and featured on platforms like **LeetCode** and **GeeksforGeeks**. Each solution follows clean Java coding conventions with recursive or iterative logic.
