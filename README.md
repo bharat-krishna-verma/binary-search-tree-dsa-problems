@@ -18,6 +18,8 @@ Each file is named after the problem it solves. Problem descriptions and platfor
 | Search in BST | `searchinbst.java` | [LeetCode #700](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Find a node in a BST that matches a target value |
 | Ceil in BST | `ceilinbst.java` | [GFG - Ceil in BST](https://www.geeksforgeeks.org/ceil-in-a-binary-search-tree/) | Find the smallest node greater than or equal to a given key |
 | Floor in BST | `floorinbst.java` | [GFG - Floor in BST](https://www.geeksforgeeks.org/floor-in-a-binary-search-tree/) | Find the largest node smaller than or equal to a given key |
+| Insert into BST | `insertintobst.java` | [LeetCode #701](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | Insert a new node into a BST while maintaining its properties |
+
 
 
 ---
