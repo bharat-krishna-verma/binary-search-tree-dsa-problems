@@ -20,6 +20,7 @@ Each file is named after the problem it solves. Problem descriptions and platfor
 | Insert into BST | `insertintobst.java` | [LeetCode #701](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | Insert a new node into a BST while maintaining its properties |
 | Kth Smallest Element in a BST | `kthsmallestbst.java` | [LeetCode #230](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Find the kth smallest value using in-order traversal |
 | Validate Binary Search Tree | `validatebst.java` | [LeetCode #98](https://leetcode.com/problems/validate-binary-search-tree/) | Check if a binary tree satisfies BST properties |
+| LCA in BST | `lcainbst.java` | [LeetCode #235](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Find the lowest common ancestor of two nodes in a BST |
 
 
 
