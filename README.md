@@ -22,6 +22,7 @@ Each file is named after the problem it solves. Problem descriptions and platfor
 | Validate Binary Search Tree | `validatebst.java` | [LeetCode #98](https://leetcode.com/problems/validate-binary-search-tree/) | Check if a binary tree satisfies BST properties |
 | LCA in BST | `lcainbst.java` | [LeetCode #235](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Find the lowest common ancestor of two nodes in a BST |
 | Inorder Successor in BST | `inordersuccessorbst.java` | [GFG - Inorder Successor in BST](https://www.geeksforgeeks.org/inorder-successor-in-binary-search-tree/) | Find the inorder successor of a given node in BST |
+| BST Iterator | `bst_iterator.java` | [LeetCode #173](https://leetcode.com/problems/binary-search-tree-iterator/) | Implement an iterator over a BST with `next()` and `hasNext()` in average O(1) time |
 
 
 
